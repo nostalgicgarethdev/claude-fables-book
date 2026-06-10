@@ -14,6 +14,11 @@ The book culminates with **Claude Fable**, the latest model who weaves all prior
 - Persistent "Your Codex" of collected lessons
 - Final interactive section: Ask Claude Fable to weave a new fable from a modern dilemma you provide
 
+## Live Site
+https://nostalgicgarethdev.github.io/claude-fables-book
+
+(If it 404s, go to the repo → Settings → Pages → set Source to "Deploy from a branch", Branch: main, Folder: / (root) and save. Builds in ~1 minute.)
+
 ## Local Use
 Simply open `index.html` in any browser.
 
