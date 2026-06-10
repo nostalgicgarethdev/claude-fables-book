@@ -17,7 +17,9 @@ The book culminates with **Claude Fable**, the latest model who weaves all prior
 ## Live Site
 https://nostalgicgarethdev.github.io/claude-fables-book
 
-(If it 404s, go to the repo → Settings → Pages → set Source to "Deploy from a branch", Branch: main, Folder: / (root) and save. Builds in ~1 minute.)
+The site is now deployed via GitHub Pages from the main branch. 
+
+If you see 404, wait 1-2 minutes for the build to complete (check the Actions tab for "pages build and deployment").
 
 ## Local Use
 Simply open `index.html` in any browser.
